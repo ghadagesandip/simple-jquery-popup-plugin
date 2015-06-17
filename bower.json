@@ -1,0 +1,34 @@
+{
+  "name": "Simple-jquery-popup-plugin",
+  "version": "1.0.0",
+   "main" :[
+      "src/popup.css",
+      "src/popup.js",
+      "bower_components/jquery/dist/jquery.min.js"
+   ],
+  "authors": [
+     "Sandip Ghadge", "sandip ghadge <ghadagesandip@gmail.com>",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ghadagesandip/simple-jquery-popup-plugin.git"
+  },
+  "description": "its simple a jquery popup",
+  "keywords": [
+    "jquery-popup",
+    "box",
+    "sandip",
+    "ghadge"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

@@ -1,0 +1,7 @@
+.popup_div{display:none;}
+.popup_div_background{background: rgba(0,0,0, 0.5);  height: 100%; left: 0; position: fixed; top: 0;  width: 100%;  z-index: 200;}
+.popup_div_style{ z-index:300; padding:10px ; display:block;  background-color:white;  position:fixed; border : 7px solid graytext;  border-radius: 13px;}
+.render_div_style{z-index:400; height:90%;  padding: 5px;}
+.hideElement{display: none;}
+.close-btn-wrapper{clear: both; margin:17px; text-align: center;}
+.close_me{background: none repeat scroll 0 0 red; cursor: pointer; color: white; font-weight: bolder;  padding: 6px 12px; border-radius: 16px;}
